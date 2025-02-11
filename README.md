@@ -24,7 +24,7 @@ Este projeto permite que você organize um sorteio de amigo secreto de maneira f
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git@github.com:Fabio-Oliveira-Silva/Chalenge-Amigo-Secreto.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
