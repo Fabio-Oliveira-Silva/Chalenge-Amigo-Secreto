@@ -20,21 +20,6 @@ Este projeto permite que você organize um sorteio de amigo secreto de maneira f
 - CSS3
 - JavaScript
 
-## Instalação💻
-
-1. Clone o repositório:
-   ```bash
-   git@github.com:Fabio-Oliveira-Silva/Chalenge-Amigo-Secreto.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd amigo-secreto
-   ```
-3. Abra o arquivo `index.html` no navegador:
-   ```bash
-   open index.html
-   ```
-
 ## Como Usar
 
 1. Abra o arquivo `index.html` no seu navegador.
