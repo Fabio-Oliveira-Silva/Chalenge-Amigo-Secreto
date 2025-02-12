@@ -30,5 +30,8 @@ Este projeto permite que você organize um sorteio de amigo secreto de maneira f
 
 
 
+![image](https://github.com/user-attachments/assets/fa89ddac-9c00-4a32-aeae-b9f99dd74fdd)
+
+
 
 
